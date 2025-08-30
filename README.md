@@ -34,7 +34,7 @@ A simple and interactive **Notes Application** built using **Next.js**. This app
 ## 🎬 Demo
 
 Check out the live demo of this project here:
-\[Your Live Demo Link]
+https://notes-app-yl74.vercel.app/
 
 ---
 
