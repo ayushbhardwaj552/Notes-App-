@@ -45,7 +45,7 @@ Check out the live demo of this project here:
 * **Styling**: CSS Modules / Tailwind CSS (if used)
 * **Font Optimization**: [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
 * **Database**: MongoDB / any preferred database (if applicable)
-* **Authentication**: JWT / Session-based (if implemented)
+* **Authentication**: JWT / Session-based / cookies
 
 ---
 
@@ -160,7 +160,3 @@ The easiest way to deploy your Next.js app is using **[Vercel](https://vercel.co
 For more details, check the [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying).
 
 ---
-
-If you want, I can also **add cool badges for Next.js, Vercel, and license** to make your README look **even more professional** on GitHub.
-
-Do you want me to do that?
